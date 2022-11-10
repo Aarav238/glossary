@@ -2,7 +2,7 @@
 title: Vertical Scaling
 status: Completed
 category: Concept
-tags: ["infrastructure", "", ""]
+tags: ["infrastructure", "methodology", ""]
 ---
 
 ## What it is
