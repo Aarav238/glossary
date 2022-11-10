@@ -2,7 +2,7 @@
 title: Tightly Coupled Architectures
 status: Completed
 category: Property
-tags: ["fundamental", "", ""]
+tags: ["fundamental", "architecture", ""]
 ---
 
 Tightly coupled architecture is an architectural style where a number of application components are interdependent 
