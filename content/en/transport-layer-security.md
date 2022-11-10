@@ -2,7 +2,7 @@
 title: TLS
 status: Completed
 category: Concept
-tags: ["security", "", ""]
+tags: ["security", "networking", ""]
 ---
 
 ## What it is
