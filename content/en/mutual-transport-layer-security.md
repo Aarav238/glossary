@@ -2,7 +2,7 @@
 title: mTLS (Mutual Transport Layer Security)
 status: Completed
 category: Concept
-tags: ["security", "", ""]
+tags: ["security", "networking", ""]
 ---
 
 ## What it is
