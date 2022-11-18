@@ -2,7 +2,7 @@
 title: Reliability
 status: Completed
 category: property
-tags: ["fundamentals", "property", ""]
+tags: ["fundamental", "property", ""]
 ---
 
 From a cloud native perspective, reliability refers to how well a system responds to failures. 
